@@ -6,4 +6,7 @@ public class Hello{
 	public static void display(String name){
 		System.out.println(name);
 	}
+	public static double print(){
+		return 10.5;
+	}
 }
